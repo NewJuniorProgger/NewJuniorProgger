@@ -1,4 +1,4 @@
-<div id="header" size="1120" align="center">
+<div id="header" align="center">
 <h1>hello word!!
 My name - George</h1>
 <h3>
