@@ -7,7 +7,7 @@ My name - George</h1>
 
   I am interested in coding and design
 
-  <a href="https://web.telegram.org/a/Toniuse">
+  <a href="https://t.me/Toniuse">
   <img scr="" alt="Telegram"/> </a>
 </h3></div>
 
