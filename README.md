@@ -7,3 +7,5 @@ My name - George</h1>
 
   I am interested in coding and design
 </h3></div>
+<a href="[Telegram-url](https://web.telegram.org/a/Toniuse)">
+  "https://web.telegram.org/a/Toniuse" alt="Telegram"/> </a>
