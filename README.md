@@ -7,7 +7,7 @@ My name - George</h1>
 
   I am interested in coding and design
 
-  <a href="[Telegram-url](https://web.telegram.org/a/Toniuse)">
-  "https://web.telegram.org/a/Toniuse" alt="Telegram"/> </a>
+  <a href="https://web.telegram.org/a/Toniuse">
+  <img scr="https://web.telegram.org/a/Toniuse" alt="Telegram"/> </a>
 </h3></div>
 
